@@ -1,3 +1,10 @@
 
 android binary xml
 https://justanapplication.wordpress.com/category/android/android-binary-xml/
+
+
+aapt
+
+aapt source code
+https://github.com/android/platform_frameworks_base/blob/6e2fb587d71631bd29fdb844a6451d68e2144337/include/androidfw/ResourceTypes.h
+
